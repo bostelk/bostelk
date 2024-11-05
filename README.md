@@ -5,4 +5,4 @@ Hi! 👋 My name is Kyle. My pronouns are he/him. I like to program computers an
 My current hobby project is an events website called [Pasted](https://pasted.ca).
 
 ### skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,javascript,blender,django,godot,gradle,vim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,javascript,blender,django,godot,gradle,vim&theme=dark)](https://skillicons.dev)
